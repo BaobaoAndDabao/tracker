@@ -1,0 +1,177 @@
+{
+  "id": "2342385",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577348",
+      "name": "留言",
+      "font_class": "liuyan",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "4784099",
+      "name": "留言",
+      "font_class": "liuyan1",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "1211",
+      "name": "云下载",
+      "font_class": "yunxiazai",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5961322",
+      "name": "云端刷新",
+      "font_class": "yunduanshuaxin",
+      "unicode": "ec60",
+      "unicode_decimal": 60512
+    },
+    {
+      "icon_id": "1920465",
+      "name": "星座",
+      "font_class": "xingzuo",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "9056338",
+      "name": "摩羯",
+      "font_class": "mojie",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "9056372",
+      "name": "射手",
+      "font_class": "sheshou",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "9056373",
+      "name": "狮子",
+      "font_class": "shizi",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "9056374",
+      "name": "双鱼",
+      "font_class": "shuangyu",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "9056376",
+      "name": "双子",
+      "font_class": "shuangzi",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "9056378",
+      "name": "水瓶",
+      "font_class": "shuiping",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "9056383",
+      "name": "天秤",
+      "font_class": "tiancheng",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9056385",
+      "name": "天蝎",
+      "font_class": "tianxie",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "9056387",
+      "name": "金牛 (1)",
+      "font_class": "jinniu",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "9057802",
+      "name": "谷神星",
+      "font_class": "gushenxing",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "9057818",
+      "name": "冥王星",
+      "font_class": "mingwangxing",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "9057834",
+      "name": "占星",
+      "font_class": "zhanxing",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "9057835",
+      "name": "海王星",
+      "font_class": "haiwangxing",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "9056263",
+      "name": "处女",
+      "font_class": "chunv",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "9056267",
+      "name": "巨蟹",
+      "font_class": "juxie",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9056330",
+      "name": "白羊 (1)",
+      "font_class": "baiyang",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6677865",
+      "name": "账户密码",
+      "font_class": "zhanghumima",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18769575",
+      "name": "账户",
+      "font_class": "people",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "18267905",
+      "name": "安全隐私",
+      "font_class": "anquanyinsi",
+      "unicode": "e98b",
+      "unicode_decimal": 59787
+    }
+  ]
+}
